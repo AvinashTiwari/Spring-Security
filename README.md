@@ -6,5 +6,10 @@ Username and Password is in security-context.xml <br/>
 (2) Added more roles and updated security-context.xml<br/>
 Added basic Http Authentication<br/>
 
-(3)Added custom Login page
+(3)Added custom Login page <br/>
+
+(4) Other part of form-login <br/>
+always-use-default-target , <br/>
+default-target-url, <br/>
+authentication-failure-url
 
