@@ -11,5 +11,7 @@ Added basic Http Authentication<br/>
 (4) Other part of form-login <br/>
 always-use-default-target , <br/>
 default-target-url, <br/>
-authentication-failure-url
+authentication-failure-url<br/>
+
+(5)This contain Verify user is logged and show logout or sign text based on that
 
