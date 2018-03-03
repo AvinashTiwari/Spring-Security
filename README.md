@@ -13,5 +13,7 @@ always-use-default-target , <br/>
 default-target-url, <br/>
 authentication-failure-url<br/>
 
-(5)This contain Verify user is logged and show logout or sign text based on that
+(5)This contain Verify user is logged and show logout or sign text based on that<br/>
+
+(6) Adding Logout 
 
