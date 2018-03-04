@@ -15,5 +15,7 @@ authentication-failure-url<br/>
 
 (5)This contain Verify user is logged and show logout or sign text based on that<br/>
 
-(6) Adding Logout 
+(6) Adding Logout <br/>
+
+(7) Used Jpa for Login . <br/>
 
