@@ -19,5 +19,7 @@ authentication-failure-url<br/>
 
 (7) Used Jpa for Login . <br/>
 
-(8) Spring Context for getting User details
+(8) Spring Context for getting User details <br/>
+
+(9) Using principal and UserDetail interface
 
