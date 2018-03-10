@@ -21,5 +21,7 @@ authentication-failure-url<br/>
 
 (8) Spring Context for getting User details <br/>
 
-(9) Using principal and UserDetail interface
+(9) Using principal and UserDetail interface <br/>
+
+(10) Implemented AuthenticationProvider
 
