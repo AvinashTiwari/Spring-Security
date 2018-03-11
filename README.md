@@ -25,5 +25,7 @@ authentication-failure-url<br/>
 
 (10) Implemented AuthenticationProvider <br/>
 
-(11) Implemented Custom  Authentication
+(11) Implemented Custom  Authentication<br/>
+
+(12) Added basic JBDC details
 
