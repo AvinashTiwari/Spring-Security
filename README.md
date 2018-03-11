@@ -23,5 +23,7 @@ authentication-failure-url<br/>
 
 (9) Using principal and UserDetail interface <br/>
 
-(10) Implemented AuthenticationProvider
+(10) Implemented AuthenticationProvider <br/>
+
+(11) Implemented Custom  Authentication
 
