@@ -27,5 +27,7 @@ authentication-failure-url<br/>
 
 (11) Implemented Custom  Authentication<br/>
 
-(12) Added basic JBDC details
+(12) Added basic JBDC details<br/>
+
+(13) Added Authority 
 
