@@ -29,5 +29,7 @@ authentication-failure-url<br/>
 
 (12) Added basic JBDC details<br/>
 
-(13) Added Authority 
+(13) Added Authority <br/>
+
+(14) Added encoded password verifaction 
 
