@@ -31,5 +31,7 @@ authentication-failure-url<br/>
 
 (13) Added Authority <br/>
 
-(14) Added encoded password verifaction 
+(14) Added encoded password verifaction <br/>
+
+(15) Added salt to password 
 
