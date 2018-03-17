@@ -33,5 +33,8 @@ authentication-failure-url<br/>
 
 (14) Added encoded password verifaction <br/>
 
-(15) Added salt to password 
+(15) Added salt to password <br/>
+
+(16) Added Ldap autentication<br/>
+Used Apache Ldap Studio 
 
