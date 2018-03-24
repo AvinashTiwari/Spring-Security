@@ -43,3 +43,5 @@ Used Apache Ldap Studio
 (18)Used Spring Expression Lang<br/>
 
 (19) Autorization tag <br/>
+
+(20) Pre-Authrozation <br/>
