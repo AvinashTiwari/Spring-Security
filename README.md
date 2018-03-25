@@ -49,3 +49,5 @@ Used Apache Ldap Studio
 (21) Post Authrozation <br/>
 
 (22) Jsr annaotation <br/>
+
+(22) Pre-Filter Autorization <br/>
