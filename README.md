@@ -51,3 +51,5 @@ Used Apache Ldap Studio
 (22) Jsr annaotation <br/>
 
 (22) Pre-Filter Autorization <br/>
+
+(23) ACL implementation <br/>
